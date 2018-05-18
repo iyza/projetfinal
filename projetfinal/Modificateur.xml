@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <root>
+    <Vaisseau>
+    <NbVaisseauLeger>5</NbVaisseauLeger>
+    <NbVaisseauMoyent>5</NbVaisseauMoyent><NbVaisseauLourd>5</NbVaisseauLourd>
+    </Vaisseau>
+    <Planete><planeteA><Gadolinium>20</Gadolinium><Neptunium>20</Neptunium><Plutonium>20</Plutonium><Terbium>20</Terbium><Thulium>20</Thulium></planeteA><planeteB><Gadolinium>5</Gadolinium><Neptunium>30</Neptunium><Plutonium>30</Plutonium><Terbium>25</Terbium><Thulium>10</Thulium>
+    </planeteB><planetteC><Gadolinium>20</Gadolinium><Neptunium>5</Neptunium><Plutonium>60</Plutonium><Terbium>10</Terbium><Thulium>5</Thulium></planetteC><planeteD><Gadolinium>15</Gadolinium><Neptunium>30</Neptunium><Plutonium>5</Plutonium><Terbium>10</Terbium><Thulium>40</Thulium></planeteD><planeteE><Gadolinium>20</Gadolinium><Neptunium>60</Neptunium><Plutonium>5</Plutonium><Terbium>10</Terbium><Thulium>5</Thulium>
+    </planeteE>
+    </Planete>
+    <CentreTris><NbCentres>10</NbCentres></CentreTris>
+    <Dechets><Gadolinium><masseVolumique>7</masseVolumique><RatioRecyclable>10</RatioRecyclable></Gadolinium><Neptunium><masseVolumique>20</masseVolumique><RatioRecyclable>8</RatioRecyclable></Neptunium><Plutonium><masseVolumique>19</masseVolumique><RatioRecyclable>30</RatioRecyclable></Plutonium><Terbium><masseVolumique>8</masseVolumique><RatioRecyclable>14</RatioRecyclable></Terbium><Thulium><masseVolumique>9</masseVolumique><RatioRecyclable>2</RatioRecyclable>
+    </Thulium>
+    </Dechets>
+    </root>
